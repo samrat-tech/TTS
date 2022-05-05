@@ -1,0 +1,4 @@
+lol=laugh out loud
+nce=national college of engineering
+rs=rupees
+er.=engineer
